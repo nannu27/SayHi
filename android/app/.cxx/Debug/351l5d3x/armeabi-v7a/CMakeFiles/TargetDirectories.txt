@@ -1,0 +1,2 @@
+C:/Users/kaoff/OneDrive/Desktop/Say hi/SayHi/android/app/.cxx/Debug/351l5d3x/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/kaoff/OneDrive/Desktop/Say hi/SayHi/android/app/.cxx/Debug/351l5d3x/armeabi-v7a/CMakeFiles/rebuild_cache.dir

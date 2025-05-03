@@ -1,0 +1,2 @@
+F:/sayhi_mobile-main/android/app/.cxx/RelWithDebInfo/6e5s3s5q/x86_64/CMakeFiles/edit_cache.dir
+F:/sayhi_mobile-main/android/app/.cxx/RelWithDebInfo/6e5s3s5q/x86_64/CMakeFiles/rebuild_cache.dir

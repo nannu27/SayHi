@@ -1,0 +1,2 @@
+/Users/rohitverma/Live Flutter Projects/sayhi_mobile-main/android/app/.cxx/Debug/115s6iu4/x86/CMakeFiles/edit_cache.dir
+/Users/rohitverma/Live Flutter Projects/sayhi_mobile-main/android/app/.cxx/Debug/115s6iu4/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/USER/Documents/Work/Indian/sayhi_mobile/android/app/.cxx/Debug/5ue3r6t4/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/USER/Documents/Work/Indian/sayhi_mobile/android/app/.cxx/Debug/5ue3r6t4/x86_64/CMakeFiles/rebuild_cache.dir
